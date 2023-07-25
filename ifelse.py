@@ -5,3 +5,7 @@ tp = ("apple", "banana", "orange")
 print([len(i) for i in tp])
 d = { 100:"apple", 200:"kiwi"}
 print( [v.upper() for v in d.values()])
+
+
+for i in map(lambda x:x+10, lst):
+    print(i)
