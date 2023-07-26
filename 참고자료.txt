@@ -80,8 +80,8 @@ To https://github.com/yoodongkeun/python230724.git
    0a63244..d809323  master -> master
 
 
-
-
+생활코딩
+https://www.opentutorials.org/course/2039
 
 
 
