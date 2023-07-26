@@ -29,3 +29,5 @@ print(cur.fetchall())
 #작업을 완료 ---> commit을 안하면 파일에 저장안됨.
 con.commit()
 
+print("aaa")
+
