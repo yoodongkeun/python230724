@@ -16,3 +16,5 @@ cur.execute("insert into PhoneBook (name, phoneNum) values" +
 cur.execute("select * from PhoneBook;")
 for row in cur:
     print(row)
+
+    
