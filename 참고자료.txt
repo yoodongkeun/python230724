@@ -104,6 +104,8 @@ pip install requests
 pip install selenium 
 pip install webdriver_manager
 pip install chromedriver_autoinstaller
+pip install clipboard
+pip install openpyxl
 
 뷰티플스프
 http://www.crummy.com/software/BeautifulSoup/
@@ -116,10 +118,12 @@ http://www.clien.net
 https://www.facebook.com/groups/pythonkorea
 
 GUI라이브러리(PyQt)
-https://www.riverbankcomputing.com/software/pyqt/download5
+https://www.riverbankcomputing.com/software/pyqt/download5 
+
 PyQt설치 
 pip install pyqt5 
 pip install pyside2 
+여기까지 설치하면 C:\Python310\Lib\site-packages\PySide2에 가보면 designer.exe 설치됨
 
 마우스와 키보드 자동 제어 
 https://wikidocs.net/85581
