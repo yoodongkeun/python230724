@@ -170,7 +170,7 @@ pip install openpyxl
 -------------------------
 visual Studio Code에서
 보기 > 명령파레트 > create new jupyter Notebook  엔터
-
+-------------------------------
 %pylab
 %matplotlib inline
 import pandas
