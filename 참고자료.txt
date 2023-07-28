@@ -192,6 +192,13 @@ pandas자료
 https://pandas.pydata.org/
 https://matplotlib.org/
 
+구글검색 colab 검색해서 인터넷 사이트에서 프로그램 연습 가능
+
+가상머신 리소스만들기  azure machine learning
+글라우드 서버
+
+ potal.azure.com
+
 참고도서
 (크롤링)
 파이썬을 이용한 웹 크롤링과 스크레이핑 데이터 수집과 분석을 위한 실전 가이드
