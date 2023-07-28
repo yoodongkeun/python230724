@@ -167,13 +167,24 @@ pip install seaborn
 (엑셀파일을 읽어야 하는 경우)
 pip install xlrd
 pip install openpyxl
- 
+-------------------------
+visual Studio Code에서
+보기 > 명령파레트 > create new jupyter Notebook  엔터
 
+%pylab
+%matplotlib inline
+import pandas
+
+plot(arange(10))  
+
+#shift + enter :셀을 실행 새로운 셀을 추가 (1차원 그래프 나옴)
+ 
+----------------------------------
 #기존 설치된 내용들을 담아서 처리 
 pip freeze > requirements.txt
 한번에 설치하기
 pip install -r requirements.txt
-
+------------------
 아나콘다 다운로드 
 https://www.anaconda.com/products/individual
 
